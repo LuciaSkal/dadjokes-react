@@ -72,10 +72,10 @@
 
 .btn-like--up {
   background-color: #00e268;
-  background-image: url('./assets/like-up.png');
+  background-image: url('../assets/like-up.png');
 }
 
 .btn-like--down {
   background-color: #ff5654;
-  background-image: url('./assets/like-down.png');
+  background-image: url('../assets/like-down.png');
 }
